@@ -71,6 +71,6 @@ project-folder/
 ├── update_product.php # Handles update via AJAX
 ├── delete_product.php # Handles delete via AJAX
 ├── showProduct.php # Handles view all the products in table via AJAX
-├── dbconnection.php # Database connection file
-├── assets/ # CSS, JS, images
+├── cfg/dbconnection.php # Database connection file
+├── assets/ # CSS, JS
 └── README.md
